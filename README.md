@@ -1,5 +1,6 @@
 ```bash
-First react-native app for studying perpose, using metro framework,   redux as state manager, inner storage as sqlite. 
+First react-native app for studying perpose, using metro framework,   
+redux as state manager, inner storage as sqlite. 
 ```
 
 ```bash
